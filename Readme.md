@@ -7,7 +7,10 @@ Este repositório contém um projeto desenvolvido com HTML e CSS, com o objetivo
 * **Readme.md:** Documento de descrição do projeto.
 
 ## Estrutura do Projeto
-- `index.html` → Estrutura principal da página (HTML)  
-- `style.css` → Folha de estilo (CSS)  
-- `imagem/` → Pasta que contém as imagens usadas no site  
-- `Readme.md` → Documento de descrição do projeto
+| Arquivo / Pasta | Descrição |
+|-----------------|------------|
+| `index.html` | Estrutura principal da página (HTML) |
+| `style.css` | Folha de estilo (CSS) |
+| `imagem/` | Pasta que contém as imagens usadas no site |
+| `Readme.md` | Documento de descrição do projeto |
+
