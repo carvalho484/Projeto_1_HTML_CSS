@@ -14,10 +14,11 @@ Este repositório contém um projeto desenvolvido com HTML e CSS, com o objetivo
 
 ## Como Executar
 1. Clone o repositório:<br>
-git clone https://github.com/carvalho484/Projeto_1_HTML_CSS.git
+git **clone** https://github.com/carvalho484/Projeto_1_HTML_CSS.git
 
 2. Navegue até o diretório do projeto:<br>
-cd Projeto_1_HTML_CSS
+**cd** Projeto_1_HTML_CSS
 
 3. Abra o arquivo **index.html** em um navegador de sua escolha.
+
 
