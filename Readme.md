@@ -6,3 +6,12 @@ Este repositório contém um projeto desenvolvido com HTML e CSS, com o objetivo
 * **imagem/:** Diretório contendo imagens utilizadas no projeto.
 * **Readme.md:** Documento de descrição do projeto.
 
+## Estrutura do Projeto
+'''HTML 
+Projeto_1_HTML_CSS/
+├── index.html
+├── style.css
+├── imagem/
+│   └── [arquivos de imagem]
+└── Readme.md
+'''
