@@ -1,7 +1,7 @@
 body {
     font-family:  "Roboto Condensed", sans-serif;
     margin: 0;
-    background-color: #5D7373;
+    background-color: #121212;
 }
 
 .hero {
@@ -20,11 +20,12 @@ body {
 }
 
 .conteudo-topo h1 {
-    color: #591812;
+    color: #030303;
     font-size: 60px;
     text-transform: uppercase;
     width: 450px;
     border-bottom: 2px solid #F2B6A0;
+    text-shadow: 2px 2px 2px #ffffff;
 }
 
 .conteudo-topo p {
@@ -32,36 +33,40 @@ body {
     font-size: 18px;
     display: inline-block;
     padding: 10px;
-    color: rgb(12, 12, 12);
+    color: #0c0c0c;
     border-bottom: 3px solid #261E17;
 }
 
 .bottom-hero {
     text-align: right;
-    margin-top: 20px 50px 0 0;
+    margin: 20px 10px 0 0;
 }
 .bottom-hero li {
     list-style-type: none;
     display: inline-block;
+    border: 1px solid #F2B6A0;
+    margin-left: 16px;
 }
 
 .bottom-hero a {
     background-color: #591812;
-    padding: 8px;
+    padding: 10px;
+    display: block;
     color: #F2B6A0;
     text-decoration: none;
-    margin-right: 8PX;
+    text-transform: uppercase;
 }
 
 .bottom-hero a:hover {
     background-color: #261E17;
 }
 
-.informaçoes {
+.informacoes {
     background-color: #8C503A;
     width: 95%;
     margin: 40px auto;
     height: 180px;
+    padding-top: 10px;
 }
 
 .titulo {
@@ -70,12 +75,14 @@ body {
     padding: 5px;
     margin: auto;
     color: #ffffff;
+    text-transform: uppercase;
 }
 
 .paragrafo {
     width: 97%;
     margin: 10px auto 20px;
     padding-left: 5px;
+    color: #ffffff;
 }
 
 .paragrafo li {
